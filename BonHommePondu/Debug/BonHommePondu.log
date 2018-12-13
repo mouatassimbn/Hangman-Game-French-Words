@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(65): warning C4018: '<' : incompatibilité signed/unsigned
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(77): warning C4018: '>=' : incompatibilité signed/unsigned
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(79): warning C4018: '<' : incompatibilité signed/unsigned
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(124): warning C4018: '<' : incompatibilité signed/unsigned
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(138): warning C4018: '<' : incompatibilité signed/unsigned
+c:\dev\visualcomunity\coding\c++\personal\bonhommepondu\bonhommepondu\source.cpp(148): warning C4018: '<' : incompatibilité signed/unsigned
+  BonHommePondu.vcxproj -> C:\DEV\VisualComunity\Coding\C++\Personal\BonHommePondu\Debug\BonHommePondu.exe
